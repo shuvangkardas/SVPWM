@@ -2,7 +2,7 @@
  * SVM.c
  *
  * Created: 5/1/2018 8:38:19 PM
- * Author : Rony
+ * Author : Shuvangkar Chandra Das (shuvangkarcdas@gmail.com)
  */ 
 
 #include <avr/io.h>
